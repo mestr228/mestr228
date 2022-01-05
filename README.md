@@ -1,4 +1,4 @@
-![Header](https://github.com/mestr228/SmsBomber/me.png)
+![Header](https://github.com/mestr228/mestr228/me.png)
 
 # Beginner Software Engeneer
 
