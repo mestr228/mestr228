@@ -1,4 +1,4 @@
-![Header](https://github.com/mestr228/mestr228/me.png)
+![Header](https://github.com/mestr228/mestr228/blob/main/me.png)
 
 # Beginner Software Engeneer
 
